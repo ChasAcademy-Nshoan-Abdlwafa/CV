@@ -1,3 +1,3 @@
 # CV
 
-Min hemsida som innehåller mitt CV, mina projekt samt en presentation om mig själv.
+Hemsida som innehåller CV, projekt samt en presentation om mig själv.
