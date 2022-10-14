@@ -1,3 +1,3 @@
 # CV
 
-Hemsida som innehåller CV, projekt samt en presentation om mig själv.
+Hemsida som innehåller CV, portfolio med projekt samt information om mig själv.
