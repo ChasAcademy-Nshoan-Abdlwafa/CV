@@ -122,7 +122,7 @@ h4 {
   height: auto;
   min-height: 200px;
   width: auto;
-  padding: 7rem 4rem;
+  padding: 10rem 4rem;
   background-size: cover;
   background-image: linear-gradient(darkblue, blue);
 }
@@ -175,7 +175,7 @@ h4 {
   }
 
   .content-1 {
-    padding: 1rem 2rem;
+    padding: 5rem 2rem;
   }
 
   .content-2 {
@@ -183,7 +183,7 @@ h4 {
   }
 
   .content-3 {
-    padding: 7rem 2rem;
+    padding: 8rem 2rem;
   }
 
   .content-3 img {
@@ -200,9 +200,6 @@ h4 {
 
   .main-content {
     text-align: center;
-  }
-
-  .nav-wrapper {
   }
 
   .nav {
